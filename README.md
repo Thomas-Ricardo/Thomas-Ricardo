@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thomasrik
+- 👋 Hi, I’m @Thomas-Ricardo
 - 👀 I am interested in becoming a high level developer.
 - 🌱 I'm learning JS, NodeJs, Git and GitHub, React and want learning Python.
 - 💞️ I'm looking to collaborate with the entire community for the best possible learning from both parties.
