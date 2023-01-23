@@ -3,6 +3,7 @@
 - :nerd_face: I have know PHP (Back and Front), MySQL, Wordpress, GIT, JS and more.
 - 🌱 I'm learning JS, React, NodeJs, React Native.
 - 💞️ I'm looking to collaborate with the entire community for the best possible learning from both parties.
+- 💼 See my works: https://portfolio-wheat-psi-74.vercel.app/
 - 📫 How to reach me: https://br.linkedin.com/in/thomas-ricardo-83953a184?trk
 
 <!---
