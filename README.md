@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomas-Ricardo
 - 👀 I am interested in becoming a high level developer.
-- :nerd_face: I have know PHP (Back and Front), JS (Back and Front), MySQL, Laravel, Node, React, Wordpress, GIT and more.
+- :nerd_face: I have know PHP (Back and Front), JS (Back and Front), Jquey, Bootstrap, MySQL, Laravel, Node, React, Wordpress, GIT and more.
 - 🌱 I'm learning Laravel, Vue, React, Node e React Native.
 - 💞️ I'm looking to collaborate with the entire community for the best possible learning from both parties.
 - 💼 See my works: https://portfolio-wheat-psi-74.vercel.app/
